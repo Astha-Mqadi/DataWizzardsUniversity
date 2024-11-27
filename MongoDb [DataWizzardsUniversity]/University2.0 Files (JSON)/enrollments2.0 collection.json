@@ -1,0 +1,200 @@
+[
+    {  
+        "_id": {"$oid": "66e02696fe2f062da400d7b0"},
+        "studentId": {"$oid": "66d702429191b09cd84d4115"},  
+        "courseId": {"$oid": "66d80d993d4d0e96162710bc"},
+        "grade": "A"
+    },
+    {
+        "_id": {"$oid": "66d97a62c95b432c5421e802"},
+        "studentId": {"$oid": "66d702429191b09cd84d4115"},  
+        "courseId": {"$oid": "66b84b127706a4751584073a"},
+        "grade": "B"
+    },
+    {
+        "_id": {"$oid": "66d97a9abfd02a6fd3f739d9"},
+        "studentId": {"$oid": "66d702429191b09cd84d4115"},  
+        "courseId": {"$oid": "66d84b16e703a4751534073c"},
+        "grade": "A"
+    },
+    {
+        "_id": {"$oid": "66d97aa996ceff961eeb4d51"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e1d"},  
+        "courseId": {"$oid": "66d84b16e703a4751534073c"},
+        "grade": "C"
+    },
+    {
+        "_id": {"$oid": "66d97ab8a3cbfa3cab316e1a"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e1d"},  
+        "courseId": {"$oid": "66d8b3e1c37c0ee6c9caabc7"},
+        "grade": "F"
+    },
+    {
+        "_id": {"$oid": "66d97ac450e643a96a2c8a5f"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e1d"},  
+        "courseId": {"$oid": "66d84b16e703a4751534073b"},
+        "grade": "A"
+    },
+    {
+        "_id": {"$oid": "66d97ace82d7324c2fac1d19"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e1d"},  
+        "courseId": {"$oid": "66d80d993d4d0e96162710bc"},
+        "grade": "B"
+    },
+    {
+        "_id": {"$oid": "66d97ad81dbf9cdf5d8bf2c8"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e1e"},  
+        "courseId": {"$oid": "66d80d993d4d0e96162710bc"},
+        "grade": "A"
+    },
+    {
+        "_id": {"$oid": "66d97ae49cd39a3236c60958"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e1e"},  
+        "courseId": {"$oid": "66d84b16e703a4751534073b"},
+        "grade": "A"
+    },
+    {
+        "_id": {"$oid": "66d97af3955283eb393d4371"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e1e"},  
+        "courseId": {"$oid": "66d84b16e703a4751534073c"},
+        "grade": "C"
+    },
+    {
+        "_id": {"$oid": "66d97b0de7f276a5c6e3efbc"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e1f"},  
+        "courseId": {"$oid": "66d80d993d4d0e96162710bc"},
+        "grade": "A"
+    },
+    {
+        "_id": {"$oid": "66d97b165a41dcb9897009e2"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e1f"},  
+        "courseId": {"$oid": "66b84b127706a4751584073a"},
+        "grade": "B"
+    },
+    {
+        "_id": {"$oid": "66d97b1dafd501063c9245f4"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e20"},  
+        "courseId": {"$oid": "66d8b3e1c37c0ee6c9caabc7"},
+        "grade": "A"
+    },
+    {
+        "_id": {"$oid": "66d97b24861920563f570c13"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e20"},  
+        "courseId": {"$oid": "66d80d993d4d0e96162710bc"},
+        "grade": "B"
+    },
+    {
+        "_id": {"$oid": "66d97b2fd7e2750fbf03487c"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e20"},  
+        "courseId": {"$oid": "66d84b16e703a4751534073b"},
+        "grade": "A"
+    },
+    {
+        "_id": {"$oid": "66d97a4b04d4ffc8c2a8bbae"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e21"},  
+        "courseId": {"$oid": "66d80d993d4d0e96162710bc"},
+        "grade": "A"
+    },
+    {
+        "_id": {"$oid": "66d97a4b04d4ffc8c2a8bbaf"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e23"},  
+        "courseId": {"$oid": "66d84b16e703a4751534073b"},
+        "grade": "B"
+    },
+    {
+        "_id": {"$oid": "66d97a4b04d4ffc8c2a8bbb0"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e25"},  
+        "courseId": {"$oid": "66d84b16e703a4751534073c"},
+        "grade": "A"
+    },
+    {
+        "_id": {"$oid": "66e02696fe2f062da400d7b1"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e26"},  
+        "courseId": {"$oid": "66d84b16e703a4751534073d"},
+        "grade": "B"
+    },
+    {
+        "_id": {"$oid": "66e02696fe2f062da400d7b2"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e26"},  
+        "courseId": {"$oid": "66d84b16e703a4751534073b"},
+        "grade": "A"
+    },
+    {
+        "_id": {"$oid": "66e02696fe2f062da400d7b3"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e26"},  
+        "courseId": {"$oid": "66b84b127706a47515840743"},
+        "grade": "B"
+    },
+    {
+        "_id": {"$oid": "66e02696fe2f062da400d7b4"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e21"},  
+        "courseId": {"$oid": "66d84b16e703a4751534073e"},
+        "grade": "A"
+    },
+    {
+        "_id": {"$oid": "66e02696fe2f062da400d7b5"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e21"},  
+        "courseId": {"$oid": "66b84b127706a47515840740"},
+        "grade": "C"
+    },
+    {
+        "_id": {"$oid": "66d97a4b04d4ffc8c2a8bbb2"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e21"},  
+        "courseId": {"$oid": "66d8b3e1c37c0ee6c9caabc7"},
+        "grade": "C"
+    },
+    {
+        "_id": {"$oid": "66d97a4b04d4ffc8c2a8bbb3"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e23"},  
+        "courseId": {"$oid": "66d8b3e1c37c0ee6c9caabc7"},
+        "grade": "B+"
+    },
+    {
+        "_id": {"$oid": "66e02696fe2f062da400d7b6"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e23"},  
+        "courseId": {"$oid": "66d84b16e703a4751534073d"},
+        "grade": "B"
+    },
+    {
+        "_id": {"$oid": "66e02696fe2f062da400d7b7"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e23"},  
+        "courseId": {"$oid": "66d80d993d4d0e96162710bc"},
+        "grade": "A"
+    },
+    {
+        "_id": {"$oid": "66d97a4b04d4ffc8c2a8bbb4"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e25"},  
+        "courseId": {"$oid": "66b84b127706a47515840740"},
+        "grade": "A"
+    },
+    {
+        "_id": {"$oid": "66e02696fe2f062da400d7b8"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e25"},  
+        "courseId": {"$oid": "66b84b127706a47515840743"},
+        "grade": "A"
+    },
+    {
+        "_id": {"$oid": "66e027cffe2f062da400d7ba"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e25"},  
+        "courseId": {"$oid": "66d8b3e1c37c0ee6c9caabc7"},
+        "grade": "A"
+    },
+    {
+        "_id": {"$oid": "66e027cffe2f062da400d7bb"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e26"},  
+        "courseId": {"$oid": "66b84b127706a47515840743"},
+        "grade": "B"
+    },
+    {
+        "_id": {"$oid": "66e02696fe2f062da400d7e9"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e26"},  
+        "courseId": {"$oid": "66d80d993d4d0e96162710bc"},
+        "grade": "A"
+    },
+    {
+        "_id": {"$oid": "66e027cffe2f062da400d7bc"},
+        "studentId": {"$oid": "66d848209bb55ae4043f3e26"},  
+        "courseId": {"$oid": "66d84b16e703a4751534073b"},
+        "grade": "C"
+    }
+]

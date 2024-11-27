@@ -1,0 +1,74 @@
+[
+    {   
+        "_id": {"$oid": "66d702429191b09cd84d4115"},
+        "firstName": "John",
+        "lastName": "Doe",
+        "gender": "Male",
+        "dob": {"$date": "2000-01-01T00:00:00.000Z"},
+        "enrollmentDate": {"$date": "2019-02-01T00:00:00.000Z"}
+    },
+    {
+        "_id": {"$oid": "66d848209bb55ae4043f3e1d"},
+        "firstName": "Abigail",
+        "lastName": "Doe",
+        "gender": "Female",
+        "dob": {"$date": "2000-01-02T00:00:00.000Z"},
+        "enrollmentDate": {"$date": "2019-03-01T00:00:00.000Z"}
+    },
+    {
+        "_id": {"$oid": "66d848209bb55ae4043f3e1e"},
+        "firstName": "Anthony",
+        "lastName": "McMan",
+        "gender": "Male",
+        "dob": {"$date": "2000-04-03T00:00:00.000Z"},
+        "enrollmentDate": {"$date": "2020-01-05T00:00:00.000Z"}
+    },
+    {
+        "_id": {"$oid": "66d848209bb55ae4043f3e1f"},
+        "firstName": "Gerald",
+        "lastName": "Aurgus",
+        "gender": "Male",
+        "dob": {"$date": "2002-10-08T00:00:00.000Z"},
+        "enrollmentDate": {"$date": "2020-05-01T00:00:00.000Z"}
+    },
+    {
+        "_id": {"$oid": "66d848209bb55ae4043f3e20"},
+        "firstName": "Bob",
+        "lastName": "Smith",
+        "gender": "Male",
+        "dob": {"$date": "2001-11-22T00:00:00.000Z"},
+        "enrollmentDate": {"$date": "2020-02-01T00:00:00.000Z"}
+    },
+    {
+        "_id": {"$oid": "66d848209bb55ae4043f3e21"},
+        "firstName": "Alice",
+        "lastName": "Johnson",
+        "gender": "Female",
+        "dob": {"$date": "2002-05-14T00:00:00.000Z"},
+        "enrollmentDate": {"$date": "2021-03-15T00:00:00.000Z"}
+    },
+    {
+        "_id": {"$oid": "66d848209bb55ae4043f3e23"},
+        "firstName": "Emma",
+        "lastName": "Williams",
+        "gender": "Female",
+        "dob": {"$date": "2000-12-11T00:00:00.000Z"},
+        "enrollmentDate": {"$date": "2020-10-20T00:00:00.000Z"}
+    },
+    {
+        "_id": {"$oid": "66d848209bb55ae4043f3e25"},
+        "firstName": "Sophia",
+        "lastName": "Miller",
+        "gender": "Female",
+        "dob": {"$date": "2003-02-05T00:00:00.000Z"},
+        "enrollmentDate": {"$date": "2022-06-18T00:00:00.000Z"}
+    },
+    {
+        "_id": {"$oid": "66d848209bb55ae4043f3e26"},
+        "firstName": "Daniel",
+        "lastName": "Wilson",
+        "gender": "Male",
+        "dob": {"$date": "1998-11-30T00:00:00.000Z"},
+        "enrollmentDate": {"$date": "2018-08-24T00:00:00.000Z"}
+    }
+]

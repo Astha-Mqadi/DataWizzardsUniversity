@@ -1,0 +1,32 @@
+[
+    {
+        "_id": { "$oid": "66d80d993d4d0e96162710bc" },
+        "courseName": "Introduction to Computer Science",
+        "credits": 3
+    },
+    {
+        "_id": { "$oid": "66d84b16e703a4751534073b" },
+        "courseName": "Data Structures and Algorithms",
+        "credits": 4
+    },
+    {
+        "_id": { "$oid": "66d84b16e703a4751534073c" },
+        "courseName": "Operating Systems",
+        "credits": 4
+    },
+    {
+        "_id": { "$oid": "66d84b16e703a4751534073d" },
+        "courseName": "Database Systems",
+        "credits": 3
+    },
+    {
+        "_id": { "$oid": "66d8b3e1c37c0ee6c9caabc7" },
+        "courseName": "Software Engineering",
+        "credits": 3
+    },
+    {
+        "_id": { "$oid": "66b84b127706a4751584073a" },
+        "courseName": "Computer Networks",
+        "credits": 3
+    }
+]
