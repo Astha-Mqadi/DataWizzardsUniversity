@@ -1,2 +1,0 @@
-# DataWizzardsUniversity
-Database
